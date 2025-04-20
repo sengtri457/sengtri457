@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jessica Sun!
+### Hi there 👋 I'm Bun Sengtri!
 🎓 I'm a Managment Information System(MIS) at Setec institude. <br />
 💻 Currently Looking For Frontend Internship. <br />
 🧑‍🏫 Former Frontend Development Graphic Design At Setec Institude.<br />
