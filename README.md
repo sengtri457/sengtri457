@@ -9,7 +9,7 @@
 ✨ I’m passionate about learning, building, and sharing.<br />
 💡 I love exploring new tech, teaching others, and creating cool things
 <br />
-<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" /></a></p>
+<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" /></a></p>
 <br />
 
 ## 🌐 Socials:
