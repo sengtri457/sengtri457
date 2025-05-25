@@ -29,6 +29,6 @@
 <br />
 <p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /></a></p>
 
-<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif" /></a></p>
+<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif" /></a></p>
 <img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
 <br/>
