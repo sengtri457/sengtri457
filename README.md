@@ -9,7 +9,7 @@
 ✨ I’m passionate about learning, building, and sharing.<br />
 💡 I love exploring new tech, teaching others, and creating cool things
 <br />
-
+<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://public-files.gumroad.com/uap5nkunnukq66agdf5dx3eqb29d" /></a></p>
 <br />
 
 ## 🌐 Socials:
@@ -29,6 +29,6 @@
 <br />
 <p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /></a></p>
 
-<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://raw.githubusercontent.com/abdul/alfred-network-location-switch/master/preview.gif" /></a></p>
+
 <img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
 <br/>
