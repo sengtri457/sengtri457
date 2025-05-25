@@ -26,7 +26,7 @@
 
 
 <br />
-<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /></a></p>
+<p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=6c09b952j39t6c72yl06045jys9jjd63bwr6o8qpqvrmn2vt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /></a></p>
 
 
 <img alt="ktri view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
