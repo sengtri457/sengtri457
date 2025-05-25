@@ -29,5 +29,5 @@
 <p align="center"><a href="https://github.com/JessicaaSun" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif" /></a></p>
 
 
-<img alt="jessice view count" width="20%" src="https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge" />
+<img alt="jessice view count" width="20%" src="[https://komarev.com/ghpvc/?username=JessicaaSun&color=ff69b4&style=for-the-badge"](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif) />
 <br/>
