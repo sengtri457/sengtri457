@@ -32,8 +32,3 @@
 
 <img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=sengtri457&color=2878EB&style=for-the-badge" />
 <br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sengtri457&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sengtri457&icon=0&color=0)](https://visitcount.itsvg.in)
