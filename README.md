@@ -27,7 +27,7 @@
 
 
 <br />
-<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /></a></p>
+<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://media2.giphy.com/media/eGx2WjCngw3Iq9gd6k/giphy.gif" /></a></p>
 
 
 <img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=sengtri457&color=2878EB&style=for-the-badge" />
