@@ -70,16 +70,6 @@
 ---
 
 ⭐ *If you like what I do, consider giving my repos a star — it keeps me caffeinated!* ☕
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sengtri457&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sengtri457&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sengtri457&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=sengtri457&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <br />
 
 <img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=sengtri457&color=2878EB&style=for-the-badge" />
