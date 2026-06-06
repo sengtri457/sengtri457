@@ -35,16 +35,22 @@
 <div align="start">
   
 ### - Programming Language
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,dart"/>
 
 ### - Backend
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
 
 ### - Frontend
 <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,html,css,tailwind,bootstrap" />
 
+### - Mobile
+<img src="https://skillicons.dev/icons?i=flutter" />
+
+### - Database
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+
 ### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,github,vscode,visualstudio,figma,ps,discord,docker,linux,powershell" />
+<img src="https://skillicons.dev/icons?i=postman,github,vscode,visualstudio,figma,ps,ai,blender,discord,docker,linux,powershell" />
 
 </div>
 
