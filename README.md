@@ -22,11 +22,12 @@
 - 🌱 Currently exploring **Backend Development & NodeJS,ExpressJS**
 - 💬 Ask me about **Angular, NodeJS, REST APIs, and full-stack architecture**
 - 📫 Reach me at: **[sengtri457@gmail.com](sengtri457@gmail.com)**
+- Click Here To see My Resume: <a href="https://drive.google.com/file/d/1_JBSdHsrS6--QmAtCPUnOb4cC-3amFH8/view?usp=sharing"> Resume </a>
 
 > “Code is like humor — when you have to explain it, it’s bad.” 😎
 
 ---
-<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Anurag. I do open source!" src="https://c.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" /></a></p>
+<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Bun sengtri. I do open source!" src="https://c.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" /></a></p>
 <br />
 
 
