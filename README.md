@@ -36,7 +36,7 @@
 <div align="start">
   
 ### - Programming Language
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,dart"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,dart,php,java"/>
 
 ### - Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
@@ -51,7 +51,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
 
 ### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,github,vscode,visualstudio,figma,ps,ai,blender,discord,docker,linux,powershell" />
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma,ps,ai,blender,discord,docker,linux,powershell,github,kubernetes,jenkins" />
 
 </div>
 
