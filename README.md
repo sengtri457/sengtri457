@@ -27,7 +27,7 @@
 > “Code is like humor — when you have to explain it, it’s bad.” 😎
 
 ---
-<p align="center"><a href="https://github.com/sengtri457" target="_blank"><img width="50%" alt="Hello, I'm Bun sengtri. I do open source!" src="https://c.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" /></a></p>
+<p align="center"><a href="https://github.com/sengtri457" target="_blank"></a></p>
 <br />
 
 
@@ -82,8 +82,6 @@
 <img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=sengtri457&color=2878EB&style=for-the-badge" />
 <br/>
 <hr/>
-# 👋 Here My Resume!
-<br />
-<br />
-<img alt="Ktri" width="100%" src="https://github.com/fluffyfe457-blip/CV/blob/main/1781511543377-c7b0d78c-4c2b-43e7-8b7e-7e13c2b5a01a_1.jpg" />
-<br/>
+
+<p align="center"><img width="50%" alt="Hello, I'm Bun sengtri. I do open source!" src="https://c.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" /></p>
+
