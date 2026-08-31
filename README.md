@@ -6,8 +6,6 @@
 
 <p align="left">
   <a target="_blank" href="https://my-portfolio-theta-nine-88.vercel.app/"><img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a target="_blank" href="[https://www.tiktok.com/@vudovn](https://www.tiktok.com/)"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a target="_blank" href="https://soundcloud.com/vudovn"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
   <a target="_blank" href="https://www.instagram.com/sxng_tr1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a target="_blank" href="https://web.facebook.com/sxng.tri457"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
