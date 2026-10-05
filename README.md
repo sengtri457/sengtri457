@@ -55,18 +55,6 @@
 
 ---
 
-## ✨ GitHub Contribution
-
-<div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="file:///C:/Users/Lenovo/Downloads/github-user-contribution%20(1).svg">
-      <source media="(prefers-color-scheme: light)" srcset="file:///C:/Users/Lenovo/Downloads/github-user-contribution%20(1).svg">
-      <img alt="github contribution grid snake animation" src="https://github.com/fluffyfe457-blip/SnakeContributte/blob/main/github-user-contribution%20(1).svg">
-</picture>
-</div>
-
----
-
 ## ✨ Fun Facts
 - 🎧 Coding with lo-fi beats or SoundCloud remixes
 - 🧩 Loves problem-solving and system design
@@ -74,12 +62,4 @@
 
 ---
 
-⭐ *If you like what I do, consider giving my repos a star — it keeps me caffeinated!* ☕
-<br />
-
-<img alt="Ktri" width="20%" src="https://komarev.com/ghpvc/?username=sengtri457&color=2878EB&style=for-the-badge" />
-<br/>
-<hr/>
-
-<p align="center"><img width="50%" alt="Hello, I'm Bun sengtri. I do open source!" src="https://c.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif" /></p>
 
