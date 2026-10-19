@@ -46,11 +46,10 @@
 <img src="https://skillicons.dev/icons?i=flutter" />
 
 ### - Database
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,mysqlserver," />
 
 ### - Tools & Others
-<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma,ps,ai,blender,discord,docker,linux,powershell,github,kubernetes,jenkins" />
-
+<img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma,ps,ai,blender,discord,docker,linux,powershell,github,gitlab," />
 </div>
 
 ---
